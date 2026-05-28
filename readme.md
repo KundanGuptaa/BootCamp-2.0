@@ -23,7 +23,7 @@ Q10. Rotate matrix by 90 degree
 
 Q11. Negate row with even index and then reverse array 
 
-Q12. Prefix sum 
+Q12. Prefix sum
 
 Q13. Find element with votes greater than n/4 , n is total no of votes in an array 
 
