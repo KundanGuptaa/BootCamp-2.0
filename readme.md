@@ -1,4 +1,3 @@
-
 # On Campus Placement Training
 
 Q1.Count Vowels from String.
@@ -40,3 +39,5 @@ Q18. Matrix diagonal difference
 Q19. Rotate matrix by 180 degree
 
 Q20. Sort 0s, 1s, 2s
+
+Q21.Remove Vowels from string. 
