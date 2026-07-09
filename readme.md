@@ -1,5 +1,6 @@
 # On Campus Placement Training
 
+# Array:-
 Q1.Count Vowels from String.
 
 Q2.Difference of first and last element of an array.
@@ -40,4 +41,28 @@ Q19. Rotate matrix by 180 degree
 
 Q20. Sort 0s, 1s, 2s
 
-Q21.Remove Vowels from string. 
+Q21.Remove Vowels from string.
+
+# String:-
+
+Q1.Remove Duplicate Character
+
+Q2.Find 1st non repeating character
+
+Q3.Check if two string is anagram or not.
+
+Q4.Logest Common Prefix
+
+Q5.Longest Common Sub-Sequence
+
+Q6.String Compression
+
+Q7.Longest Sub-String without repeating Character
+
+Q8.Minimum window Substring
+
+Q9.Validate Parenthesis
+
+Q10.Longest Palindrome Sub-String
+
+Q11.Group Anagram
